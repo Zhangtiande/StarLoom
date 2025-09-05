@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc97b495-adbf-4534-9ba8-db49428882eb" name="更改" comment="" />
+    <list default="true" id="dc97b495-adbf-4534-9ba8-db49428882eb" name="更改" comment="init: 项目初始化">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="tTIw2lmv" />
@@ -28,6 +39,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,11 +63,24 @@
       <option name="presentableId" value="Default" />
       <updated>1744383652574</updated>
       <workItem from="1744383657608" duration="351000" />
-      <workItem from="1757082656971" duration="1713000" />
+      <workItem from="1757082656971" duration="2873000" />
     </task>
+    <task id="LOCAL-00001" summary="init: 项目初始化">
+      <option name="closed" value="true" />
+      <created>1757084793600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757084793600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: 项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: 项目初始化" />
   </component>
 </project>
