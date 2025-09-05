@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-05T15:13:02Z
 progress: 0%
 prd: .claude/prds/repository-synchronization.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/Zhangtiande/StarLoom/issues/1
 ---
 
 # Epic: Repository Synchronization
